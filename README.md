@@ -8,7 +8,7 @@ This repo contains experiments related to the [2017 AF Physionet Challenge](http
 
 IPython notebooks are contained in [./src](./src). Each notebook is self contained, you can view the notebook and the cell outputs directly in github by navigating to the relevent `.ipynb` file. 
 
-If you which to run the notebooks I recomend using [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index) or running an instance of [Jupyter](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) locally (Although if you go that route you need to ensure you are running it in an environment that has the required dependencies installed).
+If you wish to run the notebooks I recomend using [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index) or running an instance of [Jupyter](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) locally (Although if you go that route you need to ensure you are running it in an environment that has the required dependencies installed).
 
 | Notebook  | Description |
 | ------------- | ------------- |
